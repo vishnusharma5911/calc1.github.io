@@ -1,0 +1,31 @@
+body{
+    /* background-color: #1fc2d8; */
+}
+.container{
+    text-align: center;
+}
+table{
+    margin: auto;
+}
+input{
+    font-size: 34px;
+    border: 3px solid black;
+    border-radius: 8px;
+}
+button{
+    font-size: 40px;
+    background-color: #d7c8c8;
+    height: 70px;
+    width: 101px;
+    border-radius: 20px
+}
+.calc{
+    display: inline-block;
+    background-color: #c66ce1;
+    border-radius: 10px;
+    padding: 20px;
+}
+h1{
+    font-family: cursive;
+    font-size: 3rem;
+}
